@@ -9,7 +9,7 @@ Discussion on codeforces comment section is also not that efficient way of shari
 ### Detailing
 <ul>
 <li>We restricted to codeforces and JEE for this prototype and can be easily expanded to other sections</li>
-  <img src="./GrowTogether/source/frontend/src/images/readmeImages/home.png" style="border:solid 5px"/>
+  <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/home.png?raw=true" style="border:solid 5px"/>
  <li> Users will be able to register with their username(unique),email(unique) and password to the website and registered users will be redirected to the dashboard page.
   </li>
   <ul>
@@ -17,9 +17,9 @@ Discussion on codeforces comment section is also not that efficient way of shari
   </ul>
  <li>
   In the dashboard page there will be a list of events will be displayed along with their respective start times.There are two types of events
-        <img src="./GrowTogether/source/frontend/src/images/readmeImages/discussion.png" style="border:solid 5px"/>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/events2.png" style="border:solid 5px"/>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/events3.png" style="border:solid 5px"/>
+        <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/discussion.png?raw=true" style="border:solid 5px"/>
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/events2.png?raw=true" style="border:solid 5px"/>
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/events3.png?raw=true" style="border:solid 5px"/>
     <ul>
     <li>Discussion Event</li>
     <ul>
@@ -29,8 +29,8 @@ Discussion on codeforces comment section is also not that efficient way of shari
     <li>Exam Event</li>
     <ul>
     <li>For contest discssion there is already a common contest on competitive programming platforms. But for other sections like JEE, CAT, GATE there will be no common exam for all the participants. So we have implemented exam portal where we keep a common exam for each section and followed by its discussion event </li>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/exam1.png" style="border:solid 5px" />
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/results.png" style="border:solid 5px" />
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/exam1.png?raw=true" style="border:solid 5px" />
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/results.png?raw=true" style="border:solid 5px" />
     </ul>
     </ul>
  </li>
@@ -43,11 +43,11 @@ Discussion on codeforces comment section is also not that efficient way of shari
   <li>
     Here global room consists of all the users who have registered for that event with their username and score of its corresponding contest/exam.
     <figure>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/Groom.png"  style="border:solid 5px"/>
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/Groom.png"?raw=true  style="border:solid 5px"/>
     <figcaption>user vivek1 sent request to adarsh1</figcaption>
     </figure>
         <figure>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/AdarshGroom.png"  style="border:solid 5px"/>
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/AdarshGroom.png"?raw=true  style="border:solid 5px"/>
     <figcaption>adarsh will be receiving the request in real time</figcaption>
     </figure>
   </li>
@@ -62,12 +62,12 @@ Discussion on codeforces comment section is also not that efficient way of shari
   </li>
   <li> User can start random pairing option which randomly pairs with other registered user who are also started random pairing on there side.</li>
         <figure>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/roomLink.png"  style="border:solid 5px"/>
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/roomLink.png"?raw=true  style="border:solid 5px"/>
     <figcaption>vivek1 got the request</figcaption>
     </figure>
     <li>Request sending, request recieving, room link sending , room link recieving are all real time communications</li>
         <figure>
-    <img src="./GrowTogether/source/frontend/src/images/readmeImages/Proom.png"  style="border:solid 5px"/>
+    <img src="https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/Proom.png"?raw=true  style="border:solid 5px"/>
     <figcaption>Both joined in a room (since it is not depolyed yet, both are running in the same machine, so both have same images)</figcaption>
     </figure>    
 </ul>
