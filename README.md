@@ -23,6 +23,7 @@ Discussion on codeforces comment section is also not that efficient way of shari
 <img style="border:solid 3px" width="1000" alt="events2" src="https://user-images.githubusercontent.com/74662593/208660280-223530cf-1cad-4c4f-8134-9e67707e0315.png">
 <img style="border:solid 3px" width="1000" alt="events3" src="https://user-images.githubusercontent.com/74662593/208660293-79b7a00d-7f36-4832-ba59-dcad41daeded.png">
     <ul>
+    <li>Events are created by the admins</li>
     <li>Discussion Event</li>
     <ul>
     <li>This event is to have discussion among peers</li>
