@@ -9,7 +9,7 @@ Discussion on codeforces comment section is also not that efficient way of shari
 ### Detailing
 <ul>
 <li>We restricted to codeforces and JEE for this prototype and can be easily expanded to other sections</li>
-  ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/home.png?raw=true")
+<img style="border:solid 3px" width="1000" alt="home" src="https://user-images.githubusercontent.com/74662593/208660121-166cc810-d07d-472b-9a54-019459b8cf0a.png">
  <li> Users will be able to register with their username(unique),email(unique) and password to the website and registered users will be redirected to the dashboard page.
   </li>
   <ul>
@@ -17,9 +17,9 @@ Discussion on codeforces comment section is also not that efficient way of shari
   </ul>
  <li>
   In the dashboard page there will be a list of events will be displayed along with their respective start times.There are two types of events
-        ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/discussion.png?raw=true")
-    ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/events2.png?raw=true")
-    ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/events3.png?raw=true")
+<img style="border:solid 3px" width="1000" alt="discussion" src="https://user-images.githubusercontent.com/74662593/208660179-4d89587a-e9a3-467e-832e-4d69335130be.png">
+<img style="border:solid 3px" width="1000" alt="events2" src="https://user-images.githubusercontent.com/74662593/208660280-223530cf-1cad-4c4f-8134-9e67707e0315.png">
+<img style="border:solid 3px" width="1000" alt="events3" src="https://user-images.githubusercontent.com/74662593/208660293-79b7a00d-7f36-4832-ba59-dcad41daeded.png">
     <ul>
     <li>Discussion Event</li>
     <ul>
@@ -43,11 +43,11 @@ Discussion on codeforces comment section is also not that efficient way of shari
   <li>
     Here global room consists of all the users who have registered for that event with their username and score of its corresponding contest/exam.
     <figure>
-    ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/Groom.png"?raw=true )
+<img style="border:solid 3px" width="1000" alt="Groom" src="https://user-images.githubusercontent.com/74662593/208660385-cd0cf98d-9c0c-4167-9e34-29b7fa380fa5.png">
     <figcaption>user vivek1 sent request to adarsh1</figcaption>
     </figure>
         <figure>
-    ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/AdarshGroom.png"?raw=true )
+<img style="border:solid 3px" width="1000" alt="AdarshGroom" src="https://user-images.githubusercontent.com/74662593/208660365-cb092a20-261a-4f1c-bcb9-6beceef88efd.png">
     <figcaption>adarsh will be receiving the request in real time</figcaption>
     </figure>
   </li>
@@ -62,12 +62,12 @@ Discussion on codeforces comment section is also not that efficient way of shari
   </li>
   <li> User can start random pairing option which randomly pairs with other registered user who are also started random pairing on there side.</li>
         <figure>
-    ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/roomLink.png"?raw=true )
+<img style="border:solid 3px" width="1000" alt="roomLink" src="https://user-images.githubusercontent.com/74662593/208660367-ef3e4758-bd41-4511-bfad-3ace0eaf2deb.png">
     <figcaption>vivek1 got the request</figcaption>
     </figure>
     <li>Request sending, request recieving, room link sending , room link recieving are all real time communications</li>
         <figure>
-    ![alt text]("https://github.com/Sanath91009/GrowTogether/tree/main/source/frontend/src/images/readmeImages/Proom.png"?raw=true )
+<img style="border:solid 3px" width="1000" alt="Proom" src="https://user-images.githubusercontent.com/74662593/208660395-8b950ef9-7b68-42da-b2c5-7635e9e85285.png">
     <figcaption>Both joined in a room (since it is not depolyed yet, both are running in the same machine, so both have same images)</figcaption>
     </figure>    
 </ul>
