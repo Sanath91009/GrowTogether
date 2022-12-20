@@ -1,1 +1,11 @@
-Add your source code files to this directory. Please don't rename this directory.
+### frontend 
+
+<ul>
+<li>This is frontend folder - reactjs</li>
+</ul>
+
+### backend 
+
+<ul>
+<li>This is backend folder - nodejs</li>
+</ul>
