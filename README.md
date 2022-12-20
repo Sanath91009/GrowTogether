@@ -10,6 +10,8 @@ Discussion on codeforces comment section is also not that efficient way of shari
 <ul>
 <li>We restricted to codeforces and JEE for this prototype and can be easily expanded to other sections</li>
 <img style="border:solid 3px" width="1000" alt="home" src="https://user-images.githubusercontent.com/74662593/208660121-166cc810-d07d-472b-9a54-019459b8cf0a.png">
+<img width="1440" alt="login" src="https://user-images.githubusercontent.com/74662593/208661552-102af06e-3e20-47be-a921-0d28cdcdbe20.png">
+
  <li> Users will be able to register with their username(unique),email(unique) and password to the website and registered users will be redirected to the dashboard page.
   </li>
   <ul>
